@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CPPTest.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CPPTest.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CPPTestEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\CPPTest">
+      <UniqueIdentifier>{859EE16E-4406-3C08-AC71-338FD20F9212}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CPPTest\CPPTest.Build.cs">
+      <Filter>Source\CPPTest</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CPPTest\CPPTest.cpp">
+      <Filter>Source\CPPTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPTest\CPPTest.h">
+      <Filter>Source\CPPTest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPPTest\CPPTestCharacter.cpp">
+      <Filter>Source\CPPTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPTest\CPPTestCharacter.h">
+      <Filter>Source\CPPTest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPPTest\CPPTestGameMode.cpp">
+      <Filter>Source\CPPTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPTest\CPPTestGameMode.h">
+      <Filter>Source\CPPTest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPPTest\TutorialCharacter.cpp">
+      <Filter>Source\CPPTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPTest\TutorialCharacter.h">
+      <Filter>Source\CPPTest</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

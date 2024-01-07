@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unreal projects\\cpptest\\intermediate\\build\\win64\\unrealeditor\\inc\\cpptest\\uht\\cpptestgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal projects\\cpptest\\intermediate\\build\\win64\\x64\\cpptesteditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "e:\\unreal projects\\cpptest\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cpptest\\definitions.cpptest.h",
+            "e:\\unreal projects\\cpptest\\source\\cpptest\\cpptestgamemode.h",
+            "e:\\software\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "e:\\software\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "e:\\software\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "e:\\software\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "e:\\unreal projects\\cpptest\\intermediate\\build\\win64\\unrealeditor\\inc\\cpptest\\uht\\cpptestgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

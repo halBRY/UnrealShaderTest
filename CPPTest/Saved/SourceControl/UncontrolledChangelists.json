@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Unreal Projects/CPPTest/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/Unreal Projects/CPPTest/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"E:/Unreal Projects/CPPTest/Content/BP_ViewCamera.uasset",
+				"E:/Unreal Projects/CPPTest/Content/ThirdPerson/Maps/CDEP_Stage.umap",
+				"E:/Unreal Projects/CPPTest/Content/GM_CDEP.uasset",
+				"E:/Unreal Projects/CPPTest/Content/Textures/spheres_ods_cdep_4k_camera_2.uasset",
+				"E:/Unreal Projects/CPPTest/Content/Textures/spheres_ods_cdep_4k_camera_2_Mat.uasset",
+				"E:/Unreal Projects/CPPTest/Content/Textures/M_HLSL.uasset",
+				"E:/Unreal Projects/CPPTest/Content/Textures/M_Camera.uasset",
+				"E:/Unreal Projects/CPPTest/Content/Tutorial/BP_Actor.uasset",
+				"E:/Unreal Projects/CPPTest/Content/Tutorial/BP_GM.uasset",
+				"E:/Unreal Projects/CPPTest/Content/Tutorial/BP_Tutorial.uasset",
+				"E:/Unreal Projects/CPPTest/Content/Textures/M_Vertex_Shader.uasset",
+				"E:/Unreal Projects/CPPTest/Content/dense_plane.uasset",
+				"E:/Unreal Projects/CPPTest/Content/dense_plane_1.uasset",
+				"E:/Unreal Projects/CPPTest/Content/plane.uasset",
+				"E:/Unreal Projects/CPPTest/Content/BP_Actor.uasset",
+				"E:/Unreal Projects/CPPTest/Content/BP_GM.uasset",
+				"E:/Unreal Projects/CPPTest/Content/BP_Tutorial.uasset"
+			]
+		}
+	]
+}

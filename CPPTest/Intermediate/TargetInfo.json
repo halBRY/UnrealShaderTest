@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CPPTest",
+			"Path": "..\\Source\\CPPTest.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CPPTestEditor",
+			"Path": "..\\Source\\CPPTestEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
